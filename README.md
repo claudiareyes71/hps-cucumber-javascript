@@ -1,5 +1,5 @@
 # hps-cucumber-javascript
-[![Build Status](https://travis-ci.org/hiptest/hps-cucumber-javascript.svg?branch=master)](https://travis-ci.org/hiptest/hps-cucumber-javascript)
+[![Build Status](https://travis-ci.com/claudiareyes71/hps-cucumber-javascript.svg?branch=master)](https://travis-ci.com/claudiareyes71/hps-cucumber-javascript)
 
 Hiptest publisher samples with Cucumber/Javascript
 
